@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @SUNILDAS
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning Msc in computer science
+
 
 
 <!---
